@@ -1,0 +1,16 @@
+# Data (re-downloaded automatically by the notebook)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+student_data.zip
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
