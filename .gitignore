@@ -1,8 +1,9 @@
 # Data (re-downloaded automatically by the notebook)
 data/raw/*
 data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
+!data/README.md
+!data/raw/README.md
+!data/processed/README.md
 student_data.zip
 
 # Python / Jupyter
